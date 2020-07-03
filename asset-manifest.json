@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5720843c.chunk.css",
+    "main.js": "/static/js/main.a35000a8.chunk.js",
+    "main.js.map": "/static/js/main.a35000a8.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.273367e8.js",
+    "runtime~main.js.map": "/static/js/runtime~main.273367e8.js.map",
+    "static/css/2.764ccc25.chunk.css": "/static/css/2.764ccc25.chunk.css",
+    "static/js/2.22798087.chunk.js": "/static/js/2.22798087.chunk.js",
+    "static/js/2.22798087.chunk.js.map": "/static/js/2.22798087.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.09bef3162712abd4b5b664bec829926e.js": "/precache-manifest.09bef3162712abd4b5b664bec829926e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.5720843c.chunk.css.map": "/static/css/main.5720843c.chunk.css.map",
+    "static/media/RenatoCardosoCV.pdf": "/static/media/RenatoCardosoCV.932b280a.pdf",
+    "static/media/about.md": "/static/media/about.d6f0627c.md",
+    "static/media/me.jpg": "/static/media/me.36c9d2f7.jpg"
+  }
+}
