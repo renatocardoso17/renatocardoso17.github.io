@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb79a764f2ff0be2fa884d2ccc0996ce",
+    "revision": "c7ea99958941866d282292a543243ad7",
     "url": "/index.html"
   },
   {
-    "revision": "87053e6e07e320013ac4",
+    "revision": "e3040eb0b6a6eae3c442",
     "url": "/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "d14fe5169bd0fd2df486",
+    "revision": "0f9acc49459b8634f12c",
     "url": "/static/css/main.5720843c.chunk.css"
   },
   {
-    "revision": "87053e6e07e320013ac4",
-    "url": "/static/js/2.22798087.chunk.js"
+    "revision": "e3040eb0b6a6eae3c442",
+    "url": "/static/js/2.f3cd12c2.chunk.js"
   },
   {
-    "revision": "d14fe5169bd0fd2df486",
-    "url": "/static/js/main.a35000a8.chunk.js"
+    "revision": "0f9acc49459b8634f12c",
+    "url": "/static/js/main.0000759b.chunk.js"
   },
   {
     "revision": "481c3638fafd7600a182",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/RenatoCardosoCV.932b280a.pdf"
   },
   {
-    "revision": "d6f0627ccb60b1b57b0bc3f2c321abc2",
-    "url": "/static/media/about.d6f0627c.md"
+    "revision": "0b72aa365838e553dff6602239b10222",
+    "url": "/static/media/about.0b72aa36.md"
   },
   {
     "revision": "36c9d2f771c258685d6df70618ad5b13",
