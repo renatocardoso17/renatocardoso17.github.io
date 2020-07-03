@@ -1,5 +1,6 @@
 {
   "projects": {
-    "production": "my-webiste-58f92"
+    "production": "my-webiste-58f92",
+    "default": "my-webiste-58f92"
   }
 }
