@@ -1,7 +1,7 @@
 
 #### Intro
-I'm a senior software engineer at Blip (Paddy Power Betfair - PPB) where I work on developing web applications for the gambling industry.
-My primary job functions are to help my team deliver all the projects that come in our hands, try to learn/study new technologies and check their applicability to our daily work and to help younger team members to grow and build their careers.
+I am a senior software engineer at Blip (Paddy Power Betfair) where I work on developing backend services for the gambling industry.
+My primary job functions are project delivery, learn/study new technologies and evaluate their applicability to our use cases and career growth of younger team members.
 <br><br>
 #### Currently
 At Blip, I've learned how to build amazing web applications, build relationships with teammates, understand the gambling business model and how a system is capable of handling more transactions on a Saturday than the european stock market in an entire week.
@@ -29,6 +29,8 @@ I built my first website with Microsoft FrontPage - it was so terrible I decided
 - At 26, when I was already back to Portugal, I helped some friends to hack into my gym's back office. We were able to remove people from classes or see all the registered users' passwords - they were in plain text :O We told them which was the security breach and never received a thing for it - not even one month for free at the very least.
 
 - At 29, I gave my first talk in public at [PixelsCamp](https://pixels.camp) conference in Lisbon about progressive web apps. Since then, I'm still waiting for the video of the presentation.
+
+- At 33, I became a parent and would not change it for nothing.
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
 <br><br>
@@ -64,9 +66,11 @@ You can ask me in person for other stories that I'm afraid to share with the int
 
 - In 2018, I visited: Sanlucar de Barrameda & Barcelona & Mallorca - Spain, Paris & Pitiviers - France, Rotterdam - Netherlands, Verona - Italy.
 
-- In 2019, visited: Sanlucar de Barrameda & Barcelona & Mallorca - Spain, Medellin & Cartagena & San Andrés - Colombia
+- In 2019, I visited: Sanlucar de Barrameda & Barcelona & Mallorca - Spain, Medellin & Cartagena & San Andrés - Colombia
 
-- In 2020, I plan to visit: Barcelona - Spain, Auckland - New Zealand, Boavista & Sal - Cape Verde...
+- In 2020, I visited: Amposta & Cuenca & Barcelona & Mallorca - Spain
+
+- In 2021, I plan to visit: Pontevedra & Barcelona - Spain
 
 
 #### Fun Facts
@@ -81,4 +85,4 @@ You can ask me in person for other stories that I'm afraid to share with the int
 - Enabling a brighter future.
 - Doing better.
 - Earning money while I sleep.
-- Retiring at the age of 55.
+- Retiring at the age of 56.

@@ -30,6 +30,21 @@ export const categories = [
 
 export const skills = [
     {
+        title: 'AWS',
+        competency: 8,
+        category: ['Frameworks'],
+    },
+    {
+        title: 'Apache Flink',
+        competency: 8,
+        category: ['Frameworks', 'Java'],
+    },
+    {
+        title: 'Apache Kafka',
+        competency: 8,
+        category: ['Frameworks', 'Java'],
+    },
+    {
         title: 'Javascript',
         competency: 8,
         category: ['Web Development', 'Languages'],
@@ -70,19 +85,9 @@ export const skills = [
         category: ['Databases'],
     },
     {
-        title: 'Oracle',
-        competency: 7,
-        category: ['Databases'],
-    },
-    {
         title: 'ExpressJS',
         competency: 6,
         category: ['Web Development', 'Frameworks', 'Javascript'],
-    },
-    {
-        title: 'Git',
-        competency: 7,
-        category: ['Tools'],
     },
     {
         title: 'HTML',
@@ -91,16 +96,6 @@ export const skills = [
     },
     {
         title: 'CSS',
-        competency: 5,
-        category: ['Web Development', 'Languages'],
-    },
-    {
-        title: 'SASS/SCSS',
-        competency: 5,
-        category: ['Web Development', 'Languages'],
-    },
-    {
-        title: 'LESS',
         competency: 5,
         category: ['Web Development', 'Languages'],
     },
